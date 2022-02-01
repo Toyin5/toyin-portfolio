@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 10px 0 10px;
+    color: var(--clr-dark);
+    background-color: var(--clr-light);
+    height: 100px;
+    font-family:var(--ff-primary);
+}
+
+.full-name{
+    padding-left: 20px;
+}
+
+.nav{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    gap:50px;
+
+}
